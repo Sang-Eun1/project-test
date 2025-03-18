@@ -7,7 +7,7 @@ public class JhchiTestMain {
 	public static void main(String[] args) {
 
 		System.out.println("1)학번이름 출력하기");
-		System.out.println("200000 홍길동");
+		System.out.println("20241185 박상은");
 
 		System.out.println();
 
